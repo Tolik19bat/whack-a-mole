@@ -15,7 +15,6 @@
     "preshow:dist": "npm run build",
     "show:dist": "live-server dist"
   },
-  "author": "Anatoly",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.23.0",
